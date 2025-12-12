@@ -23,8 +23,15 @@ In order make Carronho do the Carrildo's basics, the following components were c
 -   9V battery
 -   AA batteries
 
-_see BOM.md to full material's list_
+_see [BOM.md](/docs/BOM.md) to full material's list_
 
 To avoid noise between microcontroller and gears (and batteries to last longer), Carronho will have energy input from two battery systems: a 9V battery for the Arduino UNO and 3xAA batteries for the gears with the gear box that came with the kit.
 
 The most important thing in selecting the components for the Carronho project was that the components needed to be available for purchasing in the Santa Efigênia neighborhood (São Paulo city, São Paulo/Brasil), because we were already waiting for the delivery of the components for Carrildo that were bought in ~Motherland China~ AliExpress website (and I, Jenny DeVito, couldn't wait to ~play~ test my new projct).
+
+---
+
+---
+
+_Feito com 🧠 por Worst Makers._
+_2025_
