@@ -1,7 +1,7 @@
 ## 2WD Chassis kit pieces
 
 -   1x acrylic chassis
--   1x 3xAA batery box
+-   1x 4xAA batery box
 -   1x ON/OFF switch
 -   2x motor gear
 -   2x speed encoder
@@ -30,5 +30,5 @@ _ZK-2WD Chassis pieces._
 -   4x AA bateries pack
 -   Jumper cables
 
-![Extra pieces bought for Carronho](/assets/CarronhoSensors.jpg)
+![Pieces bought for Carronho](/assets/CarronhoSensors.jpg)
 _Microcontroler, breadboard, sensors and batteries for Carronho._

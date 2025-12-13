@@ -6,7 +6,7 @@ But, Carronho will do that in silence, with a red LED for the screams.
 
 ## Caracteristics
 
-Carronho is assembled in a [ZK-2WD chassis](https://pt.aliexpress.com/item/1005007531700001.html). The kit has the chassis, motor gears, 3xAA battery box(gears only), a switch, two tires, an universal wheel and all the screws, standoffs and nuts, necessary to assemble the car.
+Carronho is assembled in a [ZK-2WD chassis](https://pt.aliexpress.com/item/1005007531700001.html). The kit has the chassis, motor gears, 4xAA battery box(gears only), a switch, two tires, an universal wheel and all the screws, standoffs and nuts, necessary to assemble the car.
 
 Meaning, **it does not have any means to control the car** whatsoever.
 
@@ -25,7 +25,7 @@ In order make Carronho do the Carrildo's basics, the following components were c
 
 _see [BOM.md](/docs/BOM.md) to full material's list_
 
-To avoid noise between microcontroller and gears (and batteries to last longer), Carronho will have energy input from two battery systems: a 9V battery for the Arduino UNO and 3xAA batteries for the gears with the gear box that came with the kit.
+To avoid noise between microcontroller and gears (and batteries to last longer), Carronho will have energy input from two battery systems: a 9V battery for the Arduino UNO and 4xAA batteries for the gears with the gear box that came with the kit.
 
 The most important thing in selecting the components for the Carronho project was that the components needed to be available for purchasing in the Santa Efigênia neighborhood (São Paulo city, São Paulo/Brasil), because we were already waiting for the delivery of the components for Carrildo that were bought in ~Motherland China~ AliExpress website (and I, Jenny DeVito, couldn't wait to ~play~ test my new projct).
 
